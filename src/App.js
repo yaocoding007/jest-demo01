@@ -24,3 +24,7 @@ function App() {
 }
 
 export default App;
+
+export function sum(a, b) {
+  return a + b
+}
